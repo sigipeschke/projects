@@ -1,2 +1,3 @@
-# projects
-Personal projects of varying purposes.
+# Python Projects
+
+Personal scripts and projects.
